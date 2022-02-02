@@ -1,6 +1,6 @@
 # Privacy Policy
 
-##1. Introduction
+## Introduction
 
 This Privacy Policy sets out how we, helloid (“helloid”)
 use and protect your personal data that you provide to us, or that is otherwise
@@ -9,11 +9,11 @@ messaging services (the “Services”). For the purposes of this Privacy Policy
 ‘we’, ‘us’ and ‘our’ refers to {app.name}, and ‘you’ refers to you, the user of the
 Services.
 
-###1.1 Privacy Principles
+### Privacy Principles
 
 helloid has two fundamental principles when it comes to collecting and processing
 private data:
 
 * We don't use your data to show you ads.
-* We only store the data in case {app.name} needs to perform error diagnosis and 
+* We only store the data in case helloid needs to perform error diagnosis and 
   performance measurements.
