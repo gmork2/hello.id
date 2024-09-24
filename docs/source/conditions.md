@@ -2,14 +2,14 @@
 
 ## Introduction
 
-By signing up for hello.id, you accept our Privacy Policy, 
+By signing up for _hello.id_, you accept our Privacy Policy, 
 so this Privacy Policy should therefore be read in conjunction with those terms.
 We reserve the right to update these Terms of Service later.
 
 ### EEA Representative
 
 If you live in a country in the European Economic Area (EEA), the Services are
-provided by hello.id, which for the purposes of applicable data protection legislation 
+provided by _hello.id_, which for the purposes of applicable data protection legislation 
 is the data controller responsible for your personal data when you use our Services.
 
 ## Legal Ground for Processing Your Personal Data
@@ -24,19 +24,19 @@ or fundamental rights and freedoms that require protections of personal data.
 
 ### Advanced features
 
-We may use some aggregated data about how you use hello.id for error diagnostics and
+We may use some aggregated data about how you use _hello.id_ for error diagnostics and
 performance measurements with the intention of improving your experience using our
 application.
 
 ### No Ads Based on User Data
 
 Unlike other services, we don't use your data for ad targeting or other commercial purposes.
-hello.id only stores the information it needs to function as a secure search service.
+_hello.id_ only stores the information it needs to function as a secure search service.
 
 ## Use of the application by the user
 
 The user agrees to be solely responsible for the use of the data obtained through this
-application and that hello.id has no liability to him with respect to such uses and the
+application and that _hello.id_ has no liability to him with respect to such uses and the
 consequences thereof, including any damage or loss that he or third parties may suffer.
 These terms only limit our liabilities as permitted by applicable law.
 
@@ -44,7 +44,7 @@ These terms only limit our liabilities as permitted by applicable law.
 
 ### Law Enforcement Authorities
 
-If hello.id receives a court order confirming that you are suspected of terrorism, we can
+If _hello.id_ receives a court order confirming that you are suspected of terrorism, we can
 release all the information we have, although until now, this has never happened.
 
 ## Changes to this Privacy Policy
